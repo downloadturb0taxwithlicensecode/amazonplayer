@@ -1,4 +1,4 @@
-How to Use Amazon.com/mytv for Prime Video Activation on Smart TVs
+Easy Guide to Activate Prime Video on Your Smart TV
 =================================================================================
 
 .. meta::
@@ -13,7 +13,7 @@ To activate Prime Video on your Smart TV, open the Prime Video app and choose �
        <a href="https://az.redircoms.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Enter Code</a>
    </div>
 
-Easy Setup: A Step‑by‑Step Guide to amazon.com/mytv on Your TV
+A Step‑by‑Step Guide to amazon.com/mytv on Your TV
 -----------------------------------------------
 Open the Prime Video App on Your Smart TV
 -----------------------------------------------
@@ -54,4 +54,5 @@ Troubleshooting Activation Issues
 * Ensure you're using the correct Amazon account.
 
 * If the code doesn't work, generate a new one from the TV and try again.
+
 
